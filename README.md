@@ -30,15 +30,6 @@ dependencies:
     version: <version-number-here>
 ```
 
-Or with the GitHub Pages repository:
-
-```yaml
-dependencies:
-  - name: fmeflow
-    repository: https://camptocamp.github.io/helm-fmeflow
-    version: <version-number-here>
-```
-
 The chart values are then under the `fmeflow:` key, the helm-application values are under
 the `fmeflow.fmeflow:` key.
 
