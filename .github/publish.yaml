@@ -5,5 +5,3 @@ helm:
     - folder: .
   types:
     - oci
-dispatch:
-  - {}
