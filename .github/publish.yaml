@@ -3,3 +3,5 @@
 helm:
   packages:
     - folder: .
+  types:
+    - oci
